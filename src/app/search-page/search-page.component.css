@@ -1,0 +1,14 @@
+.mat-card > .mat-card-actions:last-child {
+  margin-bottom: 1%;
+}
+.example-full-width {
+  margin: 2%;
+}
+mat-form-field {
+  width: 40%;
+}
+.invalid-feedback {
+  position: absolute;
+  bottom: -90%;
+  color: red;
+}
